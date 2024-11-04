@@ -1,6 +1,6 @@
 更新时间,#genre#
-20241104 09:17:15,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
-关于本源,https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
+20241104 09:17:15,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp
+关于本源,https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp
 每日一首,http://em.21dtv.com/songs/60058708.mkv
 
 
