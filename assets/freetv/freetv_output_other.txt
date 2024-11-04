@@ -1,13 +1,11 @@
 更新时间,#genre#
-20241104 21:54:16,url
+20241105 07:49:40,url
 
 
 freetv_other,#genre#
 CETV-1,https://stream1.freetv.fun/cetv-1-4.m3u8
 CETV-4,https://stream1.freetv.fun/cetv-4-3.m3u8
 CHC动作电影,https://stream1.freetv.fun/chc-dong-zuo-dian-ying-1.ctv
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-10.ctv
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-11.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-13.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-2.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-21.ctv
@@ -31,6 +29,7 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-14.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-20.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-21.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-4.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.m3u8
 CHC影迷电影,https://stream1.freetv.fun/chc-gao-qing-dian-ying-1.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-10.m3u8
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-1.m3u8
@@ -157,7 +156,9 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-3.m3u8
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-6.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-11.ctv
+五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-12.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-13.ctv
+五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-2.m3u8
 亚洲旅游,https://stream1.freetv.fun/ya-zhou-lu-you-3.ctv
 人間衛視,https://stream1.freetv.fun/ren-jian-wei-shi-2.m3u8
 人间衛視,https://stream1.freetv.fun/ren-jian-wei-shi-8.m3u8
@@ -215,7 +216,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 剧集,https://stream1.freetv.fun/ju-ji-2.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-3.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-4.m3u8
-动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-6.ctv
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-1.m3u8
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-10.m3u8
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-7.m3u8
@@ -240,6 +240,7 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 华语电视,https://stream1.freetv.fun/hua-yu-dian-shi-2.m3u8
 华语电视3,https://stream1.freetv.fun/hua-yu-dian-shi-3-1.m3u8
 华语电视3,https://stream1.freetv.fun/hua-yu-dian-shi-3-4.m3u8
+华语电视3,https://stream1.freetv.fun/hua-yu-dian-shi-3-5.m3u8
 华语电视3台,https://stream1.freetv.fun/hua-yu-dian-shi-3-3.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-7.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-9.m3u8
@@ -378,14 +379,11 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-5.m3u8
 年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-6.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-10.m3u8
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-15.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-23.m3u8
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-3.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-4.m3u8
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-6.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-7.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8
 广东公共,https://stream1.freetv.fun/yan-dong-gong-gong-1.ctv
@@ -398,7 +396,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-10.ctv
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-14.m3u8
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-17.m3u8
-广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-6.ctv
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-gao-qing-2.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-12.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-14.ctv
@@ -410,15 +407,10 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-gao-qing-1.m3u8
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-13.m3u8
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-2.m3u8
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-6.ctv
 广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-14.m3u8
 广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-8.m3u8
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-1.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-11.m3u8
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-12.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-13.ctv
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-16.ctv
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-21.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-23.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-25.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-26.m3u8
@@ -426,8 +418,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-1.m3u8
 广东科教,https://stream1.freetv.fun/yan-dong-ke-jiao-2.ctv
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-3.m3u8
-广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-8.ctv
-广东综艺,https://stream1.freetv.fun/yan-dong-zong-yi-5.ctv
 广东综艺-4k2,https://stream1.freetv.fun/yan-dong-zong-yi--4k2-1.ctv
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-1.m3u8
 广安新闻综合频道,https://stream1.freetv.fun/yan-an-xin-wen-zong-he-1.m3u8
@@ -440,12 +430,8 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 广州南国都市,https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-8.m3u8
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-10.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-2.ctv
-广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-3.ctv
-广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-9.ctv
 广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-1.ctv
-广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-5.ctv
 广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-8.ctv
-广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-4.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-1.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-10.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-11.ctv
@@ -457,8 +443,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-7.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-8.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-9.ctv
-广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-2.ctv
-广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-3.ctv
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-5.ctv
 广西影视,https://stream1.freetv.fun/yan-xi-ying-shi-1.m3u8
 广西影视,https://stream1.freetv.fun/yan-xi-ying-shi-2.m3u8
@@ -495,7 +479,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 新野新闻综合频道,https://stream1.freetv.fun/xin-ye-xin-wen-zong-he-1.m3u8
 新闻,https://stream1.freetv.fun/xin-wen-3.ctv
 新闻综合,https://stream1.freetv.fun/ipv6-xin-wen-zong-he-10.m3u8
-新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-4.m3u8
 无线财经,https://stream1.freetv.fun/wu-xian-cai-jing-2.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-1.m3u8
 明珠,https://stream1.freetv.fun/ming-zhu-2.m3u8
@@ -610,7 +593,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-3.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-8.ctv
 汕尾综合,https://stream1.freetv.fun/shan-wei-zong-he-1.ctv
-江苏综艺,https://stream1.freetv.fun/jiang-su-zong-yi-1.m3u8
 沁阳新闻综合频道,https://stream1.freetv.fun/qin-yang-xin-wen-zong-he-1.m3u8
 河北农民,https://stream1.freetv.fun/he-bei-nong-min-1.ctv
 河北农民,https://stream1.freetv.fun/he-bei-nong-min-10.ctv
@@ -706,6 +688,7 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
 海南新闻,https://stream1.freetv.fun/ipv6-hai-nan-xin-wen-10.m3u8
+海南新闻,https://stream1.freetv.fun/ipv6-hai-nan-xin-wen-6.m3u8
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-1.m3u8
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-3.m3u8
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-6.m3u8
@@ -714,8 +697,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 深圳卫视-sd,https://stream1.freetv.fun/shen-zhen-wei-shi--sd-3.m3u8
 深圳少儿,https://stream1.freetv.fun/shen-zhen-shao-er-1.m3u8
 深圳财经生活,https://stream1.freetv.fun/shen-zhen-cai-jing-sheng-huo-1.m3u8
-深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-4.ctv
-深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-9.ctv
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-12.ctv
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-2.ctv
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-5.ctv
@@ -734,7 +715,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-1.ctv
 湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-10.ctv
 湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-11.ctv
-湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-13.ctv
 湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-14.ctv
 湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-15.ctv
 湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-4.m3u8
@@ -760,7 +740,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-7.ctv
 湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-8.ctv
 湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-9.ctv
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-1.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-12.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-15.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-16.ctv
@@ -831,7 +810,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-11.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-13.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-16.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-4.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-6.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-9.ctv
 电影,https://stream1.freetv.fun/dian-ying-1.ctv
@@ -970,7 +948,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 禹州新闻综合,https://stream1.freetv.fun/yu-zhou-xin-wen-zong-he-1.m3u8
 第一卫视,https://stream1.freetv.fun/di-yi-wei-shi-1.m3u8
 第一财经,https://stream1.freetv.fun/di-yi-cai-jing-10.m3u8
-第一财经,https://stream1.freetv.fun/di-yi-cai-jing-6.m3u8
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-1.ctv
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-11.m3u8
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-4.m3u8
@@ -1076,7 +1053,6 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 辽宁卫视高清,https://stream1.freetv.fun/liao-zhu-wei-shi-gao-qing-5.ctv
 辽宁卫视高清,https://stream1.freetv.fun/liao-zhu-wei-shi-gao-qing-7.m3u8
 运城公共,https://stream1.freetv.fun/yun-cheng-gong-gong-2.m3u8
-运城科技教育,https://stream1.freetv.fun/yun-cheng-ke-ji-jiao-yu-1.m3u8
 运城科技教育,https://stream1.freetv.fun/yun-cheng-ke-ji-jiao-yu-2.m3u8
 连云港新闻,https://stream1.freetv.fun/lian-yun-gang-xin-wen-1.m3u8
 连云港新闻综合,https://stream1.freetv.fun/lian-yun-gang-xin-wen-zong-he-1.m3u8
@@ -1103,6 +1079,7 @@ usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-11.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-14.ctv
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-21.m3u8
+金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-36.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-38.ctv
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-40.ctv
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-41.ctv
