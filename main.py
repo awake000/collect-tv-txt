@@ -579,7 +579,7 @@ luyou="路由器打开,"+about_video1
 ipv="ipv6设置,"+about_video1
 zhibo="享受流畅直播,"+about_video1
 version=formatted_time+","+about_video1
-about="关于本源(iptv365.org),"+about_video2
+about="官网:aktv.ct.ws,"+about_video2
 # 瘦身版
 # 
 all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+ ['\n'] +\
