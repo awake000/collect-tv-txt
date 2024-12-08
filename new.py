@@ -821,7 +821,7 @@ for result in results:
         channel_name, channel_url = result.split(',')
         channels.append((channel_name, channel_url))
     print(result)
-with open("ipv4.txt", 'w', encoding='utf-8') as file:
+with open("ipv4直播源/ipv4.txt", 'w', encoding='utf-8') as file:
     for result in results:
         if result:
             file.write(result + "\n")
