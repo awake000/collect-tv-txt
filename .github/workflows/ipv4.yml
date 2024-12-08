@@ -3,6 +3,12 @@ name: ipv4
 on:
   schedule:
     - cron: '0 21 * * *'
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'ipv4直播源检测'
+        required: true
+        default: 'production'
 
 jobs:
   build:
