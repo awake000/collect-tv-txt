@@ -614,6 +614,7 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[luyou]  +[ipv]  +[zhibo] +[d
              ["🌐央视频道,#genre#"] + sort_data(ys_dictionary,correct_name_data(corrections_name,ys_lines)) + ['\n'] + \
              ["📡专享卫视,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
              ["📡卫视频道,#genre#"] + sort_data(ws_dictionary,correct_name_data(corrections_name,ws_lines)) + ['\n'] + \
+             ["📡ipv4央视卫视,#genre#"] + read_txt_to_array('https://ghp.ci/raw.githubusercontent.com/ssili126/ds/main/tvlist.txt') + ['\n'] + \
              ["🌊港·澳·台频道,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
              ["📶台湾台,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["🏛经典剧场,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
