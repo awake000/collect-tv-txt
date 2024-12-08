@@ -727,9 +727,7 @@ for url in valid_urls:
     print(url)
     
 now_today = datetime.date.today()
-# 使用原始字符串路径 
-file_path = r"ipv4直播源/ip.txt"
-with open(file_path, 'a', encoding='utf-8') as file:
+with open('ipv4/ip.txt', 'a', encoding='utf-8') as file:
     file.write(f"{now_today}更新\n")
     for url in valid_urls:
         file.write(url + "\n")
@@ -823,9 +821,7 @@ for result in results:
         channel_name, channel_url = result.split(',')
         channels.append((channel_name, channel_url))
     print(result)
-# 使用原始字符串路径 
-file_path = r"ipv4直播源/ipv4.txt"
-with open(file_path, 'w', encoding='utf-8') as file:
+with open('ipv4/ipv4.txt', 'w', encoding='utf-8') as file:
     for result in results:
         if result:
             file.write(result + "\n")
