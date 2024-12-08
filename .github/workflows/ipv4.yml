@@ -1,4 +1,4 @@
-name: ipv4
+name: ipv4直播源检测
 
 on:
   schedule:
