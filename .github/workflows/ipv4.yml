@@ -3,9 +3,6 @@ name: ipv4
 on:
   schedule:
     - cron: '0 21 * * *'
-  push:
-    branches:
-      - main
 
 jobs:
   build:
