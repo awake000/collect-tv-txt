@@ -1,4 +1,8 @@
 http://wx.thego.cn/ak.m3u
+https://tv.iill.top/m3u/Gather
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://11256.kstore.space/V6TV/打开路由器IPV6.txt
+https://gitlab.com/tvtg/v6tv/-/raw/main/V6TV.txt
 http://aktv.top/live.txt
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
