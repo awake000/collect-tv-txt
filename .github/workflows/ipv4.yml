@@ -1,0 +1,46 @@
+name: ipv4直播源检测
+
+on:
+  schedule:
+    - cron: '0 3,9,11,21 * * *'
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'ipv4直播源检测'
+        required: true
+        default: 'production'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    #runs-on: ubuntu-22.04@20240422.1.0
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+    
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.12.3'
+
+      - name: Install dependencies
+        #run: pip install selenium==4.19.0 requests==2.31.0 futures==3.0.5 eventlet==0.36.1
+        run: pip install selenium requests futures eventlet
+
+      - name: Run itv_all
+        #run: python ${{ github.workspace }}/new.py
+        run: | 
+          cd ipv4直播源 
+          python new.py
+      
+      - name: 提交更改
+        run: |
+          cd ipv4直播源
+          git config --local user.email "1574412465@qq.com"
+          git config --local user.name "1574412465"
+          git add .
+          git commit *.txt -m "Add generated file"
+          #git commit *.m3u -m "Add generated file"
+          #git pull --rebase
+          git push -f
