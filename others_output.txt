@@ -3792,19 +3792,15 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 
 ◆◆◆　http://rihou.cc:555/gggg.nzk
-07-20江苏联第7轮⚽📡,http://dd.rihou.cc:555/mp4?id=lndjll.mp4
-19:00常州队🆚徐州队,http://dd.rihou.cc:555/mp4
-国🔊抖音直播,http://101.200.77.82:35455/douyin/964922706943
-国🔊评评,https://www.freetv.top/migu/955239041.m3u8?migutoken=37009d28263e6f44f1ad129fa521dc1fd4689a32052cd13e4b84b2d4f859cbd4295250c2555725bee0ff7adcde0ee5e294f60c50c780a21b298e312656bac72f87dcc3ab2466e085f6a16fabe0
-国🔊评述,https://www.freetv.top/migu/955238949.m3u8?migutoken=054d1bcce96c40bcd839bd6decd0f7146071414e5e66c9c2a6911ab405b65df210feb30d77bcddc2ef0f5afb22a0e3221e8185101e168619457787b7edf49e9818161ee24c5c7ee57a67f03bd0
-国🔊飞鸽评述,https://zb-play.rwabwo.com/public/740841833_1753007671_lgzm.flv?txSecret=9180b79fb4a28c491357c45920fd558e&txTime=687D1C4B
-国🔊述述,https://www.freetv.top/migu/955239076.m3u8?migutoken=b1cdb4d42fc527c10bc1a6267685213e228ca3ac29d26db39cfe0ad34edf675e789e95348abafffe8d9a315b058c1ee7f788c1c8c668ad55d3fd20ef535e02fde9ee7b47df9ce7711d4a827266
-国🔊抖音播播,http://101.200.77.82:35455/douyin/154188050588
-国🔊述评,https://www.freetv.top/migu/955239157.m3u8?migutoken=f5a0016cbaf6db2916cf9423be60302642702a4dc6b2feeabd5c681b85fdb969ab6b4b6590c58068cf3dec3ef37a33d8b79e76ca78682b51e1cf2eb594eedf7c39e6f8384fac443ab799a24594
-粤🔊尼佬旁述,https://pullhw.zhaoyangyang.cn/live/8811488.flv?auth_info=WLLsXu8ERYcIWYiBus9ppf%2B7HKmN6%2Fm8fmleAcAhyrY%3D.6341636e4d564d32325571586361476e
-粤🔊牙签旁述,https://pullhw.zhaoyangyang.cn/live/8811484.flv?auth_info=wFF4adn0PID6VZiEmQqDb25s59GTDGsTFq9QTMd7A%2B8%3D.4b786b38675333686f4e643939474966
-国🔊季孟年评,https://www.freetv.top/migu/956460948.m3u8?migutoken=b72357e5102643e3ab8e7633e0df9490e4461388a07442940f3aeffb9cbd241e9ecc68749c545841ece9f1976b2d9e251c396a093d5f4c6ed911f37316b190570c85b5cc12bb4d448f7372dabf
-国🔊雪怡,https://www.freetv.top/migu/956460615.m3u8?migutoken=03ce85685e7b76b02b301bc2bff6c26000d072b247d91adb955ce5c5d8e0bd8a01443c8b3d44608ec683aea01f1bc0069417ac4cce54a8cf66d821907783ed68bae0dd8a6b55a52288e16606b9
+抖舞陪看,http://dd.rihou.cc:555/mp4?id=lndjll.mp4
+白嫖软件,http://fmbox.cc/huya.php?id=11336587
+免费观看,http://lxajh.top/tv/douyu.php?id=1226741
+大街网源,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+互相搬助,http://yemingjkl.x3322.net:35455/yy/1354926637
+能看就行,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+分享更新,http://lxajh.top/tv/douyu.php?id=11878141
+爱扒随便,http://lxajh.top/tv/douyu.php?id=2940299
+不必纠结,http://lxajh.top/tv/douyu.php?id=8764282
 肥羊睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226870/1.m3u8
 肥羊睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226969/1.m3u8
 肥羊睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226988/1.m3u8
@@ -4022,9 +4018,6 @@ tvbs闽南频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/XhyG6NWlXFUuLxA75
 ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 无线娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ylxw.flv
 无线赛马频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
-无线星河粤标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-无线功夫粤标,http://cdn.101.qzz.io/live/yzwx/stream.m3u8
-无线功夫粤标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 黄金华剧频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/oJ9WqwwFHMUUdTEQVt7zwC3vE7DUFUgtFqsdl7ztt5Ka56QIN7ZiFOjjaZfDQlGZrSBUEhZ.flv
 天映粤高,https://haoyunlai.serv00.net/Smartv-1.php?id=ctv18_twn
 美亚电影国高,https://fr-us7.jdiptv.cc/live/xgmydygy.m3u8http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
@@ -4052,7 +4045,6 @@ ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 美剧解说轮播,http://lxajh.top/tv/douyu.php?id=9643264
 经典美剧解说,http://lxajh.top/tv/douyu.php?id=9123570
 96笑傲江湖粤,http://lxajh.top/tv/douyu.php?id=8912325
-95神雕侠侣粤,http://yemingjkl.x3322.net:35455/yy/1354926637
 87经典红楼梦,http://yemingjkl.x3322.net:35455/yy/1382745084
 新白娘子轮播,http://yemingjkl.x3322.net:35455/yy/1354930969
 仙剑奇侠传剧,http://yemingjkl.x3322.net:35455/yy/1382749903
@@ -4088,10 +4080,8 @@ ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 娱乐扒叔轮播,http://lxajh.top/tv/douyu.php?id=9624581
 粤语剧集轮播,http://lxajh.top/tv/douyu.php?id=10338873
 粤语综艺轮播,http://lxajh.top/tv/douyu.php?id=7919720
-粤语星爷电影,http://fmbox.cc/huya.php?id=11336587
 粤语版电影一,http://lxajh.top/tv/douyu.php?id=5033502
 粤语版电影二,http://lxajh.top/tv/douyu.php?id=6566671
-粤语版电影三,http://lxajh.top/tv/douyu.php?id=1226741
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
@@ -4102,6 +4092,7 @@ ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 邵氏影院频视,http://lxajh.top/tv/douyu.php?id=4246519
 檬檬功夫频视,http://lxajh.top/tv/douyu.php?id=9838414
 熊猫功夫频视,http://data.3g.yy.com/live/hls/1507716299/1507716299
+⬇️朝朝如念⬇️,http://dd.rihou.cc:555/mp4
 朝朝如念01集,https://vip.dytt-cinema.com/20250716/27071_6151ca1f/index.m3u8
 朝朝如念02集,https://vip.dytt-cinema.com/20250716/27069_7c9c1ec6/index.m3u8
 朝朝如念03集,https://vip.dytt-cinema.com/20250716/27070_521255db/index.m3u8
@@ -4128,7 +4119,8 @@ ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 爱的方程式11,https://vip.dytt-cinema.com/20250718/27320_6a80f2ad/index.m3u8
 爱的方程式12,https://vip.dytt-hot.com/20250719/96958_1c433320/index.m3u8
 爱的方程式13,https://vip.dytt-hot.com/20250719/96959_0aad0a38/index.m3u8
-爱的方程式14,https://vip.ffzy-video.com/20250720/22617_09f4d591/index.m3u8
+爱的方程式14,https://vip.dytt-cinema.com/20250720/27512_f678a6ed/index.m3u8
+爱的方程式15,https://vip.dytt-cinema.com/20250720/27513_b257ab6a/index.m3u8
 樱桃琥珀01集,https://vip.dytt-cinema.com/20250714/26958_3afa23ac/index.m3u8
 樱桃琥珀02集,https://vip.dytt-cinema.com/20250714/26959_8e09ecae/index.m3u8
 樱桃琥珀03集,https://vip.dytt-cinema.com/20250714/26960_4254430a/index.m3u8
@@ -4140,8 +4132,8 @@ ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 樱桃琥珀09集,https://vip.dytt-cinema.com/20250718/27321_02e21fb7/index.m3u8
 樱桃琥珀10集,https://vip.dytt-cinema.com/20250719/27429_c6626118/index.m3u8
 樱桃琥珀11集,https://vip.dytt-cinema.com/20250719/27430_4bd6a2a0/index.m3u8
-樱桃琥珀12集,https://vip.ffzy-plays.com/20250720/43314_61c2bdcc/index.m3u8
-樱桃琥珀13集,https://vip.ffzy-plays.com/20250720/43315_59a18933/index.m3u8
+樱桃琥珀12集,https://vip.dytt-cinema.com/20250720/27537_d012c462/index.m3u8
+樱桃琥珀13集,https://vip.dytt-cinema.com/20250720/27538_509ea0c1/index.m3u8
 野火之第01集,https://vip.dytt-hot.com/20250713/96612_f548fb53/index.m3u8
 野火之第02集,https://vip.dytt-hot.com/20250713/96606_ed509a7d/index.m3u8
 野火之第03集,https://vip.dytt-hot.com/20250713/96607_0a809ca7/index.m3u8
@@ -4175,8 +4167,8 @@ ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 朝雪录第16集,https://vip.dytt-cinema.com/20250718/27338_2f4ab360/index.m3u8
 朝雪录第17集,https://vip.dytt-cinema.com/20250719/27439_67f3c822/index.m3u8
 朝雪录第18集,https://vip.dytt-cinema.com/20250719/27440_3af6ea30/index.m3u8
-朝雪录第19集,https://vip.ffzy-plays.com/20250720/43321_c1d124b6/index.m3u8
-朝雪录第20集,https://vip.ffzy-plays.com/20250720/43320_d6b42adc/index.m3u8
+朝雪录第19集,https://vip.dytt-cinema.com/20250720/27535_6cc1137b/index.m3u8
+朝雪录第20集,https://vip.dytt-cinema.com/20250720/27536_84f3ad98/index.m3u8
 世界地理小云,tvbus://128nGpGrpbMwo2BGznQCymqfHLieiArXtpXxa1YcJiRpjNAsd
 兵器科技小云,tvbus://12FXhrDEHG3R4YyzJhJo4yNSbUp4B73KuzpdSPn1tsB39Xw1toy
 第一剧场小云,tvbus://12aqMAN5TxTSg5ftrgGD9ykV6UdeiV1JxM8KZ4rrPopShYPxnwK
@@ -11228,20 +11220,20 @@ Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
 
 
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=86c2e2997be677986f27a314c10ed3af&wsTime=1753023613
-都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=6d6ba25145314ae7cb38101142af76c7&wsTime=1753023613
-民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=21d2820b47b2e4abf7bdc4f7fb8d5c1e&wsTime=1753023613
-法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=67b0034d137c7cca3f648c049eaf9802&wsTime=1753023613
-公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=303f5d49eb4b466ae63bb749459443ff&wsTime=1753023613
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=dd3e63e6954b40816b4ba8224349b277&wsTime=1753023613
-电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=c580d2748056bea5ad6b5507a5377c87&wsTime=1753023613
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=796cf37a3a853afacd5e0e78be279501&wsTime=1753023613
-武术,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=ba69acc27ae9f14c0398062e4dda052b&wsTime=1753023613
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=6c08013c0c691e2267b3db25689a3b35&wsTime=1753023613
-移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=292a11ff41faeec72a461399f34e0b58&wsTime=1753023613
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=902a91a66c201146027434a3404bf360&wsTime=1753023613
-国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=fcb0168834104abed9344949dc59e614&wsTime=1753023613
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=f43ab632ea2050313e2dc7cb61341d8a&wsTime=1753023613
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=1a372f300c8c7064ac63842ccfcbd435&wsTime=1753030815
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=91929183700452908825d3bde04480eb&wsTime=1753030815
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=bbc179679fa73952342add34fed7daac&wsTime=1753030815
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=216ab1b4cd6fd814150fe8ea765b0416&wsTime=1753030815
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=3d920521cd03134f8f3939d043292b10&wsTime=1753030815
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=e7050b48711e8d37a9e26a75ddb97372&wsTime=1753030815
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=52c6968648d3b7eaa57c537e5375f38e&wsTime=1753030815
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=09bc473089266776ed36916b5349da14&wsTime=1753030815
+武术,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=06ba5105459c4b57096d520b74234d40&wsTime=1753030815
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=8cb11553042593af82380cad78d0509d&wsTime=1753030815
+移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=d5e2de380aecc2a9cbc028a5bedf508e&wsTime=1753030815
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=c0baf1c66e5686f8dc26eda5577e3df1&wsTime=1753030815
+国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=3c2fdea0a132b6e8ed244bc5566290e4&wsTime=1753030815
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=0a05c5d47d4c5a2f54cdfa68e431cf62&wsTime=1753030815
 CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8
 CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8
 CCTV6,http://60.29.124.66:6080/hls/17/index.m3u8
@@ -11440,94 +11432,6 @@ CGTN纪录,http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-体育,http://a21709.tv.netsite.cc/proxy/1168525477/1168525477.m3u8
-凤凰中文,http://a21709.tv.netsite.cc/proxy/1846789161/1846789161.m3u8
-新疆兵团卫视,http://a21709.tv.netsite.cc/proxy/1502802665/1502802665.m3u8
-CGTN,http://a21709.tv.netsite.cc/proxy/1162774257/1162774257.m3u8
-CGTN法语,http://a21709.tv.netsite.cc/proxy/897976963/897976963.m3u8
-CGTN俄语,http://a21709.tv.netsite.cc/proxy/742102579/742102579.m3u8
-CGTN阿拉伯语,http://a21709.tv.netsite.cc/proxy/1846633731/1846633731.m3u8
-CGTN西班牙语,http://a21709.tv.netsite.cc/proxy/1194246781/1194246781.m3u8
-CGTN外语记录,http://a21709.tv.netsite.cc/proxy/634350026/634350026.m3u8
-1905-电影网,http://a21709.tv.netsite.cc/proxy/1747360543/1747360543.m3u8
-浙江教育科技,http://a21709.tv.netsite.cc/proxy/1253636999/1253636999.m3u8
-浙江好易购,http://a21709.tv.netsite.cc/proxy/1464411876/1464411876.m3u8
-浙江之江记录,http://a21709.tv.netsite.cc/proxy/1044187699/1044187699.m3u8
-哈萨克语新闻综合,http://a21709.tv.netsite.cc/proxy/1459249110/1459249110.m3u8
-汉语综艺,http://a21709.tv.netsite.cc/proxy/1984370081/1984370081.m3u8
-维吾尔语影视,http://a21709.tv.netsite.cc/proxy/1914463925/1914463925.m3u8
-汉语经济生活,http://a21709.tv.netsite.cc/proxy/2004261116/2004261116.m3u8
-哈萨克语综艺,http://a21709.tv.netsite.cc/proxy/333040579/333040579.m3u8
-维吾尔语经济生活,http://a21709.tv.netsite.cc/proxy/1099281883/1099281883.m3u8
-汉语体育健康,http://a21709.tv.netsite.cc/proxy/1886377426/1886377426.m3u8
-汉语信息服务,http://a21709.tv.netsite.cc/proxy/1505828605/1505828605.m3u8
-新疆少儿,http://a21709.tv.netsite.cc/proxy/79237439/79237439.m3u8
-内蒙古卫视,http://a21709.tv.netsite.cc/proxy/1149350272/1149350272.m3u8
-内蒙古新闻综合,http://a21709.tv.netsite.cc/proxy/862381212/862381212.m3u8
-内蒙古文化娱乐,http://a21709.tv.netsite.cc/proxy/844409203/844409203.m3u8
-内蒙古蒙古语文化,http://a21709.tv.netsite.cc/proxy/818789140/818789140.m3u8
-贵州公共,http://a21709.tv.netsite.cc/proxy/730375068/730375068.m3u8
-贵州影视文艺,http://a21709.tv.netsite.cc/proxy/277498502/277498502.m3u8
-贵州大众生活,http://a21709.tv.netsite.cc/proxy/1102719883/1102719883.m3u8
-贵州生态乡村,http://a21709.tv.netsite.cc/proxy/2087588014/2087588014.m3u8
-贵州科教健康,http://a21709.tv.netsite.cc/proxy/1162947109/1162947109.m3u8
-贵州移动电视,http://a21709.tv.netsite.cc/proxy/1401142653/1401142653.m3u8
-重庆新闻,http://a21709.tv.netsite.cc/proxy/1555453135/1555453135.m3u8
-陕西卫视,http://a21709.tv.netsite.cc/proxy/917851306/917851306.m3u8
-福建公共,http://a21709.tv.netsite.cc/proxy/639164858/639164858.m3u8
-福建旅游,http://a21709.tv.netsite.cc/proxy/1739179131/1739179131.m3u8
-福建经视,http://a21709.tv.netsite.cc/proxy/561753807/561753807.m3u8
-福建体育,http://a21709.tv.netsite.cc/proxy/1771344389/1771344389.m3u8
-吉林综艺文化,http://a21709.tv.netsite.cc/proxy/1548850221/1548850221.m3u8
-吉林影视,http://a21709.tv.netsite.cc/proxy/1310503767/1310503767.m3u8
-吉林戏曲,http://a21709.tv.netsite.cc/proxy/1321895461/1321895461.m3u8
-吉林新闻综合,http://a21709.tv.netsite.cc/proxy/1360924247/1360924247.m3u8
-吉林延边卫视,http://a21709.tv.netsite.cc/proxy/454807708/454807708.m3u8
-吉林延边汉语综合,http://a21709.tv.netsite.cc/proxy/461796199/461796199.m3u8
-吉林延边朝鲜语综合,http://a21709.tv.netsite.cc/proxy/127471106/127471106.m3u8
-河北卫视,http://a21709.tv.netsite.cc/proxy/1385861493/1385861493.m3u8
-河北经济生活,http://a21709.tv.netsite.cc/proxy/839342764/839342764.m3u8
-河北影视剧,http://a21709.tv.netsite.cc/proxy/105462334/105462334.m3u8
-河北公共,http://a21709.tv.netsite.cc/proxy/1380350629/1380350629.m3u8
-河北三佳购物,http://a21709.tv.netsite.cc/proxy/1490274429/1490274429.m3u8
-甘肃卫视,http://a21709.tv.netsite.cc/proxy/1209404373/1209404373.m3u8
-甘肃文化影视,http://a21709.tv.netsite.cc/proxy/1573084994/1573084994.m3u8
-甘肃公共应急,http://a21709.tv.netsite.cc/proxy/1726841360/1726841360.m3u8
-河南法制,http://a21709.tv.netsite.cc/proxy/1472420660/1472420660.m3u8
-河南电视剧,http://a21709.tv.netsite.cc/proxy/493614280/493614280.m3u8
-河南新闻,http://a21709.tv.netsite.cc/proxy/1692770748/1692770748.m3u8
-河南欢腾购物,http://a21709.tv.netsite.cc/proxy/933026680/933026680.m3u8
-河南公共,http://a21709.tv.netsite.cc/proxy/1779518772/1779518772.m3u8
-河南乡村,http://a21709.tv.netsite.cc/proxy/1890775902/1890775902.m3u8
-河南武术世界,http://a21709.tv.netsite.cc/proxy/503866921/503866921.m3u8
-河南晴彩中原,http://a21709.tv.netsite.cc/proxy/437233355/437233355.m3u8
-河南梨园,http://a21709.tv.netsite.cc/proxy/1836590379/1836590379.m3u8
-河南移动戏曲,http://a21709.tv.netsite.cc/proxy/606632094/606632094.m3u8
-河南文物宝库,http://a21709.tv.netsite.cc/proxy/908742171/908742171.m3u8
-快乐购,http://a21709.tv.netsite.cc/proxy/970312636/970312636.m3u8
-电视剧,http://a21709.tv.netsite.cc/proxy/649200103/649200103.m3u8
-国际,http://a21709.tv.netsite.cc/proxy/1627651873/1627651873.m3u8
-茶,http://a21709.tv.netsite.cc/proxy/1322311734/1322311734.m3u8
-先锋乒羽,http://a21709.tv.netsite.cc/proxy/1789306185/1789306185.m3u8
-常德新闻综合,http://a21709.tv.netsite.cc/proxy/1299968106/1299968106.m3u8
-无锡经济,http://a21709.tv.netsite.cc/proxy/326472624/326472624.m3u8
-常州新闻综合,http://a21709.tv.netsite.cc/proxy/1762429386/1762429386.m3u8
-常州生活,http://a21709.tv.netsite.cc/proxy/692207623/692207623.m3u8
-连云港新闻综合,http://a21709.tv.netsite.cc/proxy/1249456251/1249456251.m3u8
-连云港公共,http://a21709.tv.netsite.cc/proxy/1479045862/1479045862.m3u8
-睢宁综合,http://a21709.tv.netsite.cc/proxy/791997735/791997735.m3u8
-睢宁三农,http://a21709.tv.netsite.cc/proxy/1048559039/1048559039.m3u8
-睢宁资讯,http://a21709.tv.netsite.cc/proxy/1315038794/1315038794.m3u8
-沭阳综合,http://a21709.tv.netsite.cc/proxy/1424907816/1424907816.m3u8
-泗阳综合,http://a21709.tv.netsite.cc/proxy/642523244/642523244.m3u8
-泗阳资讯,http://a21709.tv.netsite.cc/proxy/1545407523/1545407523.m3u8
-涟水电视台综合,http://a21709.tv.netsite.cc/proxy/1977735434/1977735434.m3u8
-高邮一套新闻综合,http://a21709.tv.netsite.cc/proxy/145384285/145384285.m3u8
-镇江新闻综合,http://a21709.tv.netsite.cc/proxy/1052067340/1052067340.m3u8
-镇江二套社会民生,http://a21709.tv.netsite.cc/proxy/1259661680/1259661680.m3u8
-四川观察,http://a21709.tv.netsite.cc/proxy/2061240764/2061240764.m3u8
-亚洲中文,http://a21709.tv.netsite.cc/proxy/847703940/847703940.m3u8
-大立电视,http://a21709.tv.netsite.cc/proxy/1485397580/1485397580.m3u8
 
 
 ◆◆◆　https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt
