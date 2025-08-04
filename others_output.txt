@@ -7357,20 +7357,20 @@ Tonghua TV,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2
 
 
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=176fb1a154619f0d425ac4ddd3154e8c&wsTime=1754294409
-都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=7c6045deb7fdeb98ba1f02173cc46c19&wsTime=1754294409
-民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=4b001c031629a9789a1808ab92961a31&wsTime=1754294409
-法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=8a1f0509213d7ba8960d0f95ddb2e82b&wsTime=1754294409
-公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=831b45289651adb0677102f457795f07&wsTime=1754294409
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=33d0f2e49b56a0d63c8335baf334332c&wsTime=1754294409
-电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=57d24ebc9fb5d7fccbb1d0cdfcf37e7e&wsTime=1754294409
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=ce048ab28f3fc95476cdef0cc520358b&wsTime=1754294409
-武术,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=e76d965db829f946a22ebfac18a23d7f&wsTime=1754294409
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=f80abfd27093c7307e7fa4bc8e9cc3ba&wsTime=1754294409
-移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=e8b2f94912a571077427ac1dd5d9bd73&wsTime=1754294409
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=7b4f178e5138e8bb615837ca688094d3&wsTime=1754294409
-国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=ecfc633eaddd89295ddc4833b463064d&wsTime=1754294409
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=a5fd5a38d6fe12270df061efc4b31653&wsTime=1754294409
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=6131bb906ef4225b22cf9c4c2b883752&wsTime=1754316013
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=673760cd702fc9e00d782274099cbaf2&wsTime=1754316013
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=dee5413c061a4846f2a1d42850fa3aed&wsTime=1754316013
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=e79c32800df5f8d26e89cf77785cb46c&wsTime=1754316013
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=1fd606ab844bd738075f4e9960318098&wsTime=1754316013
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=2e24abf17cf6f96a9dfffd1c5497db11&wsTime=1754316013
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=61c6c6c90e86c83317ad01eb4c54917d&wsTime=1754316013
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=55639e2a130613ffb25933f76dc1f400&wsTime=1754316013
+武术,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=32bcc63b82e32083abedad270e66ce1a&wsTime=1754316013
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=8a964cba5dbbe8e8d0200d8309e7ad3a&wsTime=1754316013
+移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=1dfc4e2af10a58837905ef7a9687880d&wsTime=1754316013
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=1b72eb1a149653c3a55d2c8177641009&wsTime=1754316013
+国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=73edef4d474dd5983f3d0acc73738549&wsTime=1754316013
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=994db0617633fa48419c8bc8a4be8993&wsTime=1754316013
 CCTV7,http://8.138.7.223/tv/cctv7.m3u8
 CCTV9,http://60.29.124.66:6080/hls/20/index.m3u8
 CCTV10,http://60.29.124.66:6080/hls/21/index.m3u8
