@@ -5101,6 +5101,8 @@ HUB都会,http://j.s.bkpcp.top/js/dht
 归队之第20集,http://jx.999315.xyz/yzzy/20250902/20753_7eb2f7ef/index.m3u8
 归队之第21集,http://jx.999315.xyz/ffzy/20250903/25714_f73372f6/index.m3u8
 归队之第22集,http://jx.999315.xyz/ffzy/20250903/25715_6c9401f2/index.m3u8
+归队之第23集,http://jx.999315.xyz/yzzy/20250904/18391_a51f9f66/index.m3u8
+归队之第24集,http://jx.999315.xyz/yzzy/20250904/18392_2b4830a2/index.m3u8
 藏海传粤语01,http://jx.999315.xyz/ffzy/20250817/37914_b118614e/index.m3u8
 藏海传粤语02,http://jx.999315.xyz/ffzy/20250817/37915_9b0e182c/index.m3u8
 藏海传粤语03,http://jx.999315.xyz/ffzy/20250817/37916_9ce43b7f/index.m3u8
@@ -8224,23 +8226,22 @@ Makkal TV,https://pixman.mytvsuper.com.mp/Smart.php?id=Makkaltv
 Zee Action,https://pixman.mytvsuper.com.mp/Smart.php?id=Zeeaction
 Astro KTV,https://pixman.mytvsuper.com.mp/Smart.php?id=Astroktv
 Zee TV ,https://pixman.mytvsuper.com.mp/Smart.php?id=Zeetvhd
-极限电影标限,http://pullsstx.peiyou.eaydu.com/live/hktv-jstv018.flv
+极限电影标限,http://devpulllive.xylink.com:80/live/f1ace1da37a9e2179340b564e37371ce.flv
 极限电影标限,https://vd3.bdstatic.com/mda-mm0idb9dszenhcc2/hd/cae_h264_delogo/1643304760701030598/mda-mm0idb9dszenhcc2.mp4
 极限电影标限,https://vdse.bdstatic.com//06c6164d2434f16bca0da3e4d37c06b5.mp4
-彩虹电影标限,http://pullsstx.peiyou.eaydu.com:80/live/38eb570f632ca743d3bfb3eb4688a965.flv
-香蕉极限高限,http://cdn-pull-tx.hntv.tv:80/live/921b1419dc352831d34b8fa9cec527bb.flv
-惊艳极限高限,http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/85
-惊艳极限高限,http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/87
-潘多拉限高限,http://cdn-pull-tx.hntv.tv:80/live/ec6f4b61cf1533121e2588d88771021a.flv
-奇限高限,http://cdn-pull-tx.hntv.tv:80/live/9e5ceceba23eec85f73293e7e8aa1c90.flv
-依限高限,http://cdn-pull-tx.hntv.tv:80/live/99baa85b2f76e391b3b1184ad9e0fccb.flv
-松视壹限标限,http://cdn-pull-tx.hntv.tv:80/live/1846a48ff64140868180fe81f7ea963f.flv
+彩虹电影标限,http://devpulllive.xylink.com:80/live/2c376357aefe066dd12d464b2583e19f.flv
+香蕉极限高限,http://devpulllive.xylink.com:80/live/32b4f242caefddf82418e447ce6e131c.flv
+惊艳极限高限,http://devpulllive.xylink.com:80/live/8180640621f63c76c275c0dd28e447ca.flv
+潘多拉限高限,http://devpulllive.xylink.com:80/live/4b5de6648c35e39094ca838a27cc4548.flv
+奇限高限,http://devpulllive.xylink.com:80/live/18b0f88af5aed2ab4ca0e3c522105cd4.flv
+依限高限,http://devpulllive.xylink.com:80/live/54fe4640ec80cd3014307d3b98fa2863.flv
+松视壹限标限,http://devpulllive.xylink.com:80/live/3f27ceadaa156456e14cd951637e320f.flv
 松视贰限高限,http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/89
-松视叁限高限,http://cdn-pull-tx.hntv.tv:80/live/814ea1c79a1d2324af51d9a90aa13ea3.flv
+松视叁限高限,http://devpulllive.xylink.com:80/live/b6fc149e0780b181029c2ddcb8cc95c1.flv
 松视叁限高限,http://play-cdn-226.jr365m.cc:80/live/7143ec6b73d69cd1dd7b53384c6a8a0e.m3u8
 松视肆限高限,http://pullsstx.peiyou.eaydu.com/live/YtTABEqpR0y27CZKVlAH4n6iYBSrtx8HAwvYpmnZ1yUPkn585a.flv
-HAppy限标限,http://cdn-pull-tx.hntv.tv:80/live/8c2ae5a8390089ebc017f2a10aa243b9.flv
-PIGOO限标限,http://live.jnjyapp.cn:80/live/f27566a1f16deae3e4923461565b7a62.flv
+HAppy限标限,http://devpulllive.xylink.com:80/live/f7e3a3efc7b060376c0e9d33100a6012.flv
+PIGOO限标限,http://stream-ali1.csslcloud.net:80/live/c9c558539f17040ed2385141003d3142.flv
 国外壹限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12133/index.m3u8
 国外贰限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12134/index.m3u8
 国外叁限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12135/index.m3u8
@@ -11510,20 +11511,20 @@ Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_u
 
 
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=f75fafa5cf2ece0d79b9e6d968ab4d78&wsTime=1756998016
-都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=cd5b81112776ec97551a8e98c4d585d9&wsTime=1756998016
-民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=cc8c53aa22443283f6938e2702cd2a21&wsTime=1756998016
-法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=11cd3064605d163939463629ce275362&wsTime=1756998016
-公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=c34e04b3142bf882db4d470333b73384&wsTime=1756998016
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=c0380aa02f50f8400a6f99c8880903f8&wsTime=1756998016
-电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=2d6e2adcd557425ae40aeb3370ab9a06&wsTime=1756998016
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=490e9d38300fd9cf95cc1d69bea02c00&wsTime=1756998016
-武术,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=6594827672bdd5955bef5d6fffb2f9b9&wsTime=1756998016
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=013996bdd9bd0b09d7e69da6ff7faae7&wsTime=1756998016
-移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=03788f323ae2fac4d58083541f89fa38&wsTime=1756998016
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=c4533c794d8b02a3e4bc1d5b7158088d&wsTime=1756998016
-国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=59a9b4814f7cfa35e0a58eae79a46736&wsTime=1756998016
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=06db190d0b98f88d08f6ce7b3bb2d668&wsTime=1756998016
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=7bfdb44616e7fb439ab63c4659d3bde0&wsTime=1757005216
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=2d913d87a1bace1031b83e24c76e52d4&wsTime=1757005216
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=6eda813e59282488995a369aa24dd472&wsTime=1757005216
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=230e8aa9bdf1577f27d0e516ed8b89e4&wsTime=1757005216
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=9cee467b9fcf0dce1ab8473762629aa9&wsTime=1757005216
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=397d56b2591f8abfa5b44bc9ab6af871&wsTime=1757005216
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=3769f2de527813d17d0d0ff446e3e8ec&wsTime=1757005216
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=b658e754e084cd530cc9d5e55c4db707&wsTime=1757005216
+武术,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=8c8f8645e6c1a86914d44b3e5399bd17&wsTime=1757005216
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=152f22111cd2b81ecb0e4470ba175298&wsTime=1757005216
+移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=7adc98a6e1c310bbfd491ef8b31944c5&wsTime=1757005216
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=b4f2adf4bd4c2f097eb28db2d5c30c46&wsTime=1757005216
+国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=3cce1c6f4aeec74b13a2b4495d8e1a9e&wsTime=1757005216
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=70e6c13d89ce69641c7afe18227d5167&wsTime=1757005216
 CCTV1,http://61.156.228.12:8154/tsfile/live/0001_1.m3u8
 CCTV2,http://61.156.228.12:8154/tsfile/live/0002_1.m3u8
 CCTV3,http://61.156.228.12:8154/tsfile/live/0003_1.m3u8
