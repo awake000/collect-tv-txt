@@ -1,0 +1,3 @@
+内蒙古卫视,http://121.19.134.253:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://121.19.134.253:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://121.19.134.253:808/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
