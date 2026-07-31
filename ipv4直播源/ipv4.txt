@@ -1,0 +1,16 @@
+CCTV5,http://121.19.134.253:808/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://121.19.134.253:808/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://121.19.134.253:808/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://121.19.134.253:808/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://121.19.134.253:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://121.19.134.253:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://121.19.134.253:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://121.19.134.253:808/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://121.19.134.253:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://121.19.134.253:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://121.19.134.253:808/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV1,http://121.19.134.253:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://121.19.134.253:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+保定生活健康,http://121.19.134.253:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+河北三农,http://121.19.134.253:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河北影视剧,http://121.19.134.253:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
